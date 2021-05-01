@@ -50,6 +50,18 @@
     <loc>/books/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url><url>
+    <loc>/awards/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/awards/2017-07-27-random-walk-with-penguins/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
     <loc>/posts/2018-01-01-random-walk-with-penguins/</loc>
     <lastmod>2018-01-01T00:00:00+00:30</lastmod>
   </url><url>
@@ -120,6 +132,20 @@
   </url><url>
     <loc>/posts/2020-11-05-azure-pipelines-basics/</loc>
   </url><url>
+    <loc>/tags/classification/</loc>
+  </url><url>
+    <loc>/awards/2018-04-25-donors-choose-application-screening/</loc>
+  </url><url>
+    <loc>/awards/2018-05-30-donors-choose-recommendation-project/</loc>
+  </url><url>
+    <loc>/awards/2018-04-04-kiva-kernels-award/</loc>
+  </url><url>
     <loc>/posts/2017-06-16-melb-housing-market/</loc>
+  </url><url>
+    <loc>/tags/recommendersystems/</loc>
+  </url><url>
+    <loc>/awards/2017-12-25-spooky-eda/</loc>
+  </url><url>
+    <loc>/awards/2017-08-18-weekly-kernel-winner-african-conflicts-copy/</loc>
   </url>
 </urlset>

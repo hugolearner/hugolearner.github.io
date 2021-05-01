@@ -50,5 +50,33 @@ A book on this report can be found in Little Book on Exploratory Data Analysis.<
       <description>We investigate the Crime in LA. We do Exploratory Data analysis on various topics such as the Month of Crime ,Day of Crime,Time of Crime. We also explore how the Crimes are related to the Sex and Age of the Victims, Crime Types, Crime Types of persons aged 70 and above. We explore on the Crimes at different Premises,Types of Crimes at different Premises,victim Descent Analysis and an analysis of Weapons used in Crime.</description>
     </item>
     
+    <item>
+      <title>Kiva Kernel Award</title>
+      <link>/awards/2018-04-04-kiva-kernels-award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/awards/2018-04-04-kiva-kernels-award/</guid>
+      <description>Kiva.org is an online crowdfunding platform to extend financial services to poor and financially excluded people around the world. Kiva lenders have provided over $1 billion dollars in loans to over 2 million people. In order to set investment priorities, help inform lenders, and understand their target communities, knowing the level of poverty of each borrower is critical. However, this requires inference based on a limited set of information for each borrower.</description>
+    </item>
+    
+    <item>
+      <title>Themed Kernel Award Winner - Spooky EDA</title>
+      <link>/awards/2017-12-25-spooky-eda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/awards/2017-12-25-spooky-eda/</guid>
+      <description>Kaggle organized a Halloween playground competition, in which Text Miners were challenged to predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
+Prizes were given for most upvoted kernels, most upvoted discussions and themed kernels such as Python Tutorial, R Tutorial, Creative Feature Engineering and Creative Data Visualization. Honoured to receive the R Tutorial prize for the kernel Tutorial:Detailed Spooky Fun EDA and Modelling</description>
+    </item>
+    
+    <item>
+      <title>Weekly Kaggle Kernel Award Winner - African Conflicts</title>
+      <link>/awards/2017-08-18-weekly-kernel-winner-african-conflicts-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/awards/2017-08-18-weekly-kernel-winner-african-conflicts-copy/</guid>
+      <description>We examine a dataset from ACLED(Armed Conflict Location and Event Project).The Armed Conflict Location and Event Data Project is designed for disaggregated conflict analysis and crisis mapping. This dataset codes the dates and locations of all reported political violence and protest events in dozens of developing countries in Africa. Political violence and protest includes events that occur within civil wars and periods of instability, public protest and regime breakdown. The project covers all African countries from 1997 to the present.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -36,6 +36,24 @@
     </item>
     
     <item>
+      <title>Primer</title>
+      <link>/tags/primer/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>/tags/todo/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DataVisualization</title>
       <link>/tags/datavisualization/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0030</pubDate>
@@ -131,6 +149,24 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0030</pubDate>
       
       <guid>/tags/xgboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecommenderSystems</title>
+      <link>/tags/recommendersystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recommendersystems/</guid>
       <description></description>
     </item>
     
