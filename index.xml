@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Books</title>
+      <link>/books/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>/books/</guid>
+      <description>Little Book of Data Visualization</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>/posts/post-8/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
