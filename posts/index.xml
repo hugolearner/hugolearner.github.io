@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ink</title>
+    <title>Posts on Thoughts - Ambarish</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Ink</description>
+    <description>Recent content in Posts on Thoughts - Ambarish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0030</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0030</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latex  Cheatsheet</title>
+      <link>/posts/matrix-helper/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/posts/matrix-helper/</guid>
+      <description>Plain Matrix $ \\begin{matrix} 1 &amp;amp; 2 &amp;amp; 3\\\\ a &amp;amp; b &amp;amp; c \\end{matrix} $ $ \begin{matrix} 1 &amp;amp; 2 &amp;amp; 3\\
+a &amp;amp; b &amp;amp; c \end{matrix} $
+Square Bracket Matrix $ \\begin{bmatrix} 1 &amp;amp; 2 &amp;amp; 3\\\\ a &amp;amp; b &amp;amp; c \\end{bmatrix} $ $ \begin{bmatrix} 1 &amp;amp; 2 &amp;amp; 3\\
+a &amp;amp; b &amp;amp; c \end{bmatrix} $
+Parentheses;round brackets Matrix $ \\begin{pmatrix} 1 &amp;amp; 2 &amp;amp; 3\\\\ a &amp;amp; b &amp;amp; c \\end{pmatrix} $ $ \begin{pmatrix} 1 &amp;amp; 2 &amp;amp; 3\\</description>
+    </item>
+    
+    <item>
+      <title>Red Wine Quality prediction using AzureML, AKS with TensorFlow Keras</title>
+      <link>/posts/red-wine-quality-azureml-keras/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/posts/red-wine-quality-azureml-keras/</guid>
+      <description>What are we trying to do Predict the Quality of Red Wine using Tensorflow Keras deep learning framework given certain attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol
+We divide our approach into 2 major blocks:
+ Building the Model in Azure ML Inference from the Model in Azure ML  Building the model in Azure ML has the following steps:</description>
+    </item>
+    
+    <item>
+      <title>AdaptiveAvgPool2d in PyTorch</title>
+      <link>/posts/adaptiveavgpool2d-pytorch/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/posts/adaptiveavgpool2d-pytorch/</guid>
+      <description>I had trouble understanding the AdaptiveAvgPool2d function in PyTorch. The following examples helped me to teach myself better. Hopefully, somebody may benefit from this.
+Example 1 import torch import torch.nn as nn import numpy as np m = nn.AdaptiveAvgPool2d((1)) x = np.array( [ [ 2. , 3.], [ 4. , 1.], ]) input = torch.tensor(x) print(input) output = m(input) print(output) print(torch.mean(input)) The output will be equal to torch.mean(input)
+Example 2 with a 3 x 3 x 3 tensor x = np.</description>
+    </item>
+    
+    <item>
+      <title>Bees Health detection using Azure Custom Vision Service</title>
+      <link>/posts/bees-health-detection-azure-cognitive-services/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/posts/bees-health-detection-azure-cognitive-services/</guid>
+      <description>Every third bite of food relies on pollination by bees. Honey beehive losses are quite prevalent due to the diseased bees.
+While many indications of hive strength and health are visible on the inside of the hive, frequent check-ups on the hive are time-consuming and disruptive to the bees&#39; workflow and hive in general. By investigating the bees that leave the hive, we can gain a more complete understanding of the hive itself.</description>
+    </item>
+    
     <item>
       <title>Cross Entropy Loss</title>
       <link>/posts/2021-03-27-cross-entropy-loss/</link>

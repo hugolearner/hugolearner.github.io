@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>competitions on Ink</title>
+    <title>competitions on Thoughts - Ambarish</title>
     <link>/tags/competitions/</link>
-    <description>Recent content in competitions on Ink</description>
+    <description>Recent content in competitions on Thoughts - Ambarish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="/tags/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2017 02:01:58 +0530</lastBuildDate><atom:link href="/tags/competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random walk with Penguins</title>
       <link>/awards/2017-07-27-random-walk-with-penguins/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      <pubDate>Thu, 27 Jul 2017 02:01:58 +0530</pubDate>
       
       <guid>/awards/2017-07-27-random-walk-with-penguins/</guid>
       <description>Honoured to win the 1st prize in a Data Science competition Random Walk of Penguins hosted by DrivenData. Sharing the winning approach here.

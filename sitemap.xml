@@ -2,28 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/2021-03-27-cross-entropy-loss/</loc>
-    <lastmod>2021-03-27T00:00:00+00:30</lastmod>
+    <loc>/posts/matrix-helper/</loc>
+    <lastmod>2021-05-04T00:00:00+00:30</lastmod>
   </url><url>
-    <loc>/tags/deeplearning/</loc>
-    <lastmod>2021-03-27T00:00:00+00:30</lastmod>
+    <loc>/tags/matrix/</loc>
+    <lastmod>2021-05-04T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-05-04T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-04T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-05-04T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/azure/</loc>
+    <lastmod>2021-04-24T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/deeplearning/</loc>
+    <lastmod>2021-04-24T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/posts/red-wine-quality-azureml-keras/</loc>
+    <lastmod>2021-04-24T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/tensorflow/</loc>
+    <lastmod>2021-04-24T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/posts/adaptiveavgpool2d-pytorch/</loc>
+    <lastmod>2021-04-18T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/pytorch/</loc>
+    <lastmod>2021-04-18T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/azure-cognitiveservices/</loc>
+    <lastmod>2021-03-31T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/tags/azure-machinelearning/</loc>
+    <lastmod>2021-03-31T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/posts/bees-health-detection-azure-cognitive-services/</loc>
+    <lastmod>2021-03-31T00:00:00+00:30</lastmod>
+  </url><url>
+    <loc>/posts/2021-03-27-cross-entropy-loss/</loc>
     <lastmod>2021-03-27T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/tags/machinelearning/</loc>
     <lastmod>2021-03-27T00:00:00+00:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-03-27T00:00:00+00:30</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-27T00:00:00+00:30</lastmod>
-  </url><url>
     <loc>/posts/2021-03-15-azure-ml-datastores-datasets-basics/</loc>
-    <lastmod>2021-03-15T00:00:00+00:30</lastmod>
-  </url><url>
-    <loc>/tags/azure-machinelearning/</loc>
     <lastmod>2021-03-15T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/posts/2021-03-13-azure-ml-experiments-runs-basics/</loc>
@@ -51,24 +78,36 @@
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url><url>
     <loc>/awards/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2018-05-30T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/tags/competitions/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <loc>/tags/datavisualization/</loc>
+    <lastmod>2018-05-30T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/tags/datascience/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <loc>/awards/2018-05-30-donors-choose-recommendation-project/</loc>
+    <lastmod>2018-05-30T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/awards/2017-07-27-random-walk-with-penguins/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <loc>/tags/recommendersystems/</loc>
+    <lastmod>2018-05-30T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/classification/</loc>
+    <lastmod>2018-04-25T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/awards/2018-04-25-donors-choose-application-screening/</loc>
+    <lastmod>2018-04-25T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/cartography/</loc>
+    <lastmod>2018-04-04T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/awards/2018-04-04-kiva-kernels-award/</loc>
+    <lastmod>2018-04-04T02:01:58+05:30</lastmod>
   </url><url>
     <loc>/posts/2018-01-01-random-walk-with-penguins/</loc>
     <lastmod>2018-01-01T00:00:00+00:30</lastmod>
   </url><url>
-    <loc>/posts/2017-10-19-chicago-restaurants-inspections/</loc>
-    <lastmod>2017-10-19T00:00:00+00:30</lastmod>
+    <loc>/awards/2017-12-25-spooky-eda/</loc>
+    <lastmod>2017-12-25T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/tags/datavisualization/</loc>
+    <loc>/posts/2017-10-19-chicago-restaurants-inspections/</loc>
     <lastmod>2017-10-19T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/tags/nlp/</loc>
@@ -78,9 +117,6 @@
     <lastmod>2017-10-19T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/posts/2017-10-17-african-conflicts/</loc>
-    <lastmod>2017-10-17T00:00:00+00:30</lastmod>
-  </url><url>
-    <loc>/tags/cartography/</loc>
     <lastmod>2017-10-17T00:00:00+00:30</lastmod>
   </url><url>
     <loc>/posts/2017-10-07-austin-bikeshare/</loc>
@@ -107,6 +143,18 @@
     <loc>/tags/timeseries/</loc>
     <lastmod>2017-09-25T00:00:00+00:30</lastmod>
   </url><url>
+    <loc>/awards/2017-08-18-weekly-kernel-winner-african-conflicts-copy/</loc>
+    <lastmod>2017-08-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/competitions/</loc>
+    <lastmod>2017-07-27T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/tags/datascience/</loc>
+    <lastmod>2017-07-27T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>/awards/2017-07-27-random-walk-with-penguins/</loc>
+    <lastmod>2017-07-27T02:01:58+05:30</lastmod>
+  </url><url>
     <loc>/posts/2017-07-06-activation-functions/</loc>
     <lastmod>2017-07-06T00:00:00+00:30</lastmod>
   </url><url>
@@ -132,12 +180,6 @@
   </url><url>
     <loc>/posts/2020-11-05-azure-pipelines-basics/</loc>
   </url><url>
-    <loc>/tags/classification/</loc>
-  </url><url>
-    <loc>/awards/2018-04-25-donors-choose-application-screening/</loc>
-  </url><url>
-    <loc>/awards/2018-05-30-donors-choose-recommendation-project/</loc>
-  </url><url>
     <loc>/testimonials/deeplearning-cnn-0/</loc>
   </url><url>
     <loc>/testimonials/deeplearning-cnn-1/</loc>
@@ -150,16 +192,8 @@
   </url><url>
     <loc>/testimonials/deeplearning-cnn-5/</loc>
   </url><url>
-    <loc>/awards/2018-04-04-kiva-kernels-award/</loc>
-  </url><url>
     <loc>/posts/2017-06-16-melb-housing-market/</loc>
   </url><url>
-    <loc>/tags/recommendersystems/</loc>
-  </url><url>
     <loc>/testimonials/</loc>
-  </url><url>
-    <loc>/awards/2017-12-25-spooky-eda/</loc>
-  </url><url>
-    <loc>/awards/2017-08-18-weekly-kernel-winner-african-conflicts-copy/</loc>
   </url>
 </urlset>

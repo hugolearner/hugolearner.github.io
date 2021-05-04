@@ -1,19 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ink</title>
+    <title>Tags on Thoughts - Ambarish</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Ink</description>
+    <description>Recent content in Tags on Thoughts - Ambarish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0030</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0030</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>matrix</title>
+      <link>/tags/matrix/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>/tags/azure/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/azure/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deeplearning</title>
       <link>/tags/deeplearning/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0030</pubDate>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0030</pubDate>
       
       <guid>/tags/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>/tags/pytorch/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure cognitiveservices</title>
+      <link>/tags/azure-cognitiveservices/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/azure-cognitiveservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure-machinelearning</title>
+      <link>/tags/azure-machinelearning/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0030</pubDate>
+      
+      <guid>/tags/azure-machinelearning/</guid>
       <description></description>
     </item>
     
@@ -27,38 +81,38 @@
     </item>
     
     <item>
-      <title>azure-machinelearning</title>
-      <link>/tags/azure-machinelearning/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0030</pubDate>
-      
-      <guid>/tags/azure-machinelearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>competitions</title>
-      <link>/tags/competitions/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>/tags/competitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datascience</title>
-      <link>/tags/datascience/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>/tags/datascience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DataVisualization</title>
       <link>/tags/datavisualization/</link>
-      <pubDate>Thu, 19 Oct 2017 00:00:00 +0030</pubDate>
+      <pubDate>Wed, 30 May 2018 02:01:58 +0530</pubDate>
       
       <guid>/tags/datavisualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecommenderSystems</title>
+      <link>/tags/recommendersystems/</link>
+      <pubDate>Wed, 30 May 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/recommendersystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Wed, 25 Apr 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cartography</title>
+      <link>/tags/cartography/</link>
+      <pubDate>Wed, 04 Apr 2018 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/cartography/</guid>
       <description></description>
     </item>
     
@@ -77,15 +131,6 @@
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0030</pubDate>
       
       <guid>/tags/text-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cartography</title>
-      <link>/tags/cartography/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 +0030</pubDate>
-      
-      <guid>/tags/cartography/</guid>
       <description></description>
     </item>
     
@@ -126,6 +171,24 @@
     </item>
     
     <item>
+      <title>competitions</title>
+      <link>/tags/competitions/</link>
+      <pubDate>Thu, 27 Jul 2017 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/competitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datascience</title>
+      <link>/tags/datascience/</link>
+      <pubDate>Thu, 27 Jul 2017 02:01:58 +0530</pubDate>
+      
+      <guid>/tags/datascience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Installation</title>
       <link>/tags/installation/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0030</pubDate>
@@ -149,24 +212,6 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0030</pubDate>
       
       <guid>/tags/xgboost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classification</title>
-      <link>/tags/classification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RecommenderSystems</title>
-      <link>/tags/recommendersystems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/recommendersystems/</guid>
       <description></description>
     </item>
     
